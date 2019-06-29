@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150602958726",
+    "firebase_url": "https://hostjsoft.firebaseio.com",
+    "project_id": "hostjsoft",
+    "storage_bucket": "hostjsoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150602958726:android:b0a4217b05529a5b",
+        "android_client_info": {
+          "package_name": "ru.hostjsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150602958726-i511qp7hqika8q26ngbtcnht6l3k4ufl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnhm8OZj8b2WbHQt5tpbYzuFzFXeM1kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150602958726-i511qp7hqika8q26ngbtcnht6l3k4ufl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
