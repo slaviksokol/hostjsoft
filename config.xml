@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="ru.hostjsoft" version="0.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-	<name>HOST</name>
+	<name>Круг - твой друг</name>
 	<description>
-		HOST
+		Круг - твой друг
 	</description>
-	<author email="info@j-soft.online" href="https://host.j-soft.online.ru">HOST</author>
+	<author email="info@j-soft.online" href="https://host.j-soft.online">JSOFT</author>
 	<content src="index.html" />
 	<plugin name="cordova-admob-sdk" spec="~0.17.0">
 		<variable name="PLAY_SERVICES_VERSION" value="11.6.2" />
